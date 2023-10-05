@@ -1,3 +1,4 @@
+import Image from "next/image";
 
 
 export default function Profile() {
@@ -5,7 +6,7 @@ export default function Profile() {
         <div className="container profile mx-auto">
        
        <div className="profile-image">
-		<img src="/profile.png" className="profile-image-border"/>
+		<Image src="/profile.png" className="profile-image-border" width={0} height={0} sizes="100vw" style={{ width: '100%', height: 'auto' }} alt="profile-pic"/>
 	  </div>
 	  <div className="profile-description">
 	    <div style={{"display":"table-cell","height":"210px","verticalAlign":"middle"}}>

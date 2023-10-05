@@ -12,12 +12,12 @@ export default function Students() {
 	  <ul> 
 		<li>
 			<p class="stdp"><strong>Alan Romano</strong></p>
-			<p class="stdp"><strong>First-Author Publications:</strong> FSE'23, WWW'23, S&amp;P'22, ASE'21, ICSE'21, ASE'20, ASE'20 Demo, ICSE'20 Demo</p>
+			<p class="stdp"><strong>First-Author Publications:</strong> FSE&apos;23, WWW&apos;23, S&amp;P&apos;22, ASE&apos;21, ICSE&apos;21, ASE&apos;20, ASE&apos;20 Demo, ICSE&apos;20 Demo</p>
 			<p class="stdp"><strong>Awards:</strong> UB CSE Best Graduate Research Award (2021), Arthur A. Schomburg Fellowship (2018~2022)</p>
 		</li>
 		<li>
 			<p class="stdp"><strong>Yutian Yan</strong></p>
-			<p class="stdp"><strong>First-Author Publications:</strong> ICSE'23, IMC'21</p>
+			<p class="stdp"><strong>First-Author Publications:</strong> ICSE&apos;23, IMC&apos;21</p>
 		</li>
 		<li>
 			<p class="stdp"><strong>Weike Fang</strong></p>
