@@ -1,0 +1,73 @@
+export default function Students() {
+    return (
+      <div>
+        <div class="wrapper"> 
+    <h2>Students</h2>
+	
+
+<h3>Current graduate students</h3>
+<div class="stdcontainer">
+	
+  <div class="stdtext">
+	  <ul> 
+		<li>
+			<p class="stdp"><strong>Alan Romano</strong></p>
+			<p class="stdp"><strong>First-Author Publications:</strong> FSE'23, WWW'23, S&amp;P'22, ASE'21, ICSE'21, ASE'20, ASE'20 Demo, ICSE'20 Demo</p>
+			<p class="stdp"><strong>Awards:</strong> UB CSE Best Graduate Research Award (2021), Arthur A. Schomburg Fellowship (2018~2022)</p>
+		</li>
+		<li>
+			<p class="stdp"><strong>Yutian Yan</strong></p>
+			<p class="stdp"><strong>First-Author Publications:</strong> ICSE'23, IMC'21</p>
+		</li>
+		<li>
+			<p class="stdp"><strong>Weike Fang</strong></p>
+		</li>
+		<li>
+			<p class="stdp"><strong>Zhejian Zhou</strong></p>
+		</li>
+		<li>
+			<p class="stdp"><strong>Xiao Wu</strong></p>
+		</li>
+	  </ul>
+  </div>
+</div>
+
+
+	  
+<h3>Current undergraduate students</h3>
+<div class="stdcontainer">
+  <div class="stdtext">
+	  <ul>
+		  <li><p class="stdp"><strong>Junan Zhang</strong></p></li>
+	  </ul>
+  </div>
+</div>
+
+<h3>Graduate student alumni</h3>
+<div class="stdcontainer">
+  <div class="stdtext">
+	  <ul> 
+		<li><p class="stdp"><strong>Xinyue Liu</strong> (PhD at UB)</p></li>
+		<li><p class="stdp"><strong>Charles Wiechec</strong> (PhD at UB)</p></li>
+		<li><p class="stdp"><strong>Ashish Avinash Naware</strong> (MS at UB, joined VMware)</p></li>
+		<li><p class="stdp"><strong>Ziang Li</strong> (MS at UB, joined Alibaba) </p></li>
+		<li><p class="stdp"><strong>Malav Dharmendrakumar Vyas</strong> (MS at UB, joined Palo Alto Networks)</p></li>
+		<li><p class="stdp"><strong>Yuchen Zhang</strong> (MS at UB, joined ByteDance)</p></li>
+	  </ul>
+  </div>
+</div>
+
+<h3>Undergraduate student alumni</h3>
+<div class="stdcontainer">
+  <div class="stdtext">
+	  <ul> 
+		<li><p class="stdp"><strong>Timothy Scholtz</strong> (undergraduate at UB)</p></li>
+		<li><p class="stdp"><strong>Nicholas Allen</strong> (undergraduate at Princeton)</p></li>
+	  </ul>
+  </div>
+</div>  
+	  
+  </div>
+      </div>
+    )
+  }
