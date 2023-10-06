@@ -6,7 +6,7 @@ export default function Profile() {
         <div className="container profile mx-auto">
        
        <div className="profile-image">
-		<Image src="/profile.png" className="profile-image-border" width={0} height={0} sizes="100vw" style={{ width: '100%', height: 'auto' }} alt="profile-pic"/>
+		<Image src="/profile.jpg" className="profile-image-border" width={0} height={0} sizes="100vw" style={{ width: '100%', height: 'auto' }} alt="profile-pic"/>
 	  </div>
 	  <div className="profile-description">
 	    <div style={{"display":"table-cell","height":"210px","verticalAlign":"middle"}}>
@@ -22,8 +22,8 @@ export default function Profile() {
 				</p><hr style={{"borderTop":"1px dashed #8c8b8b","borderBottom":"1px dashed #fff"}} />
 			<p></p>
 			<p>
-				<i className="fa fa-map-marker"></i> GOL 1527, 20 Lomb Memorial Drive, Rochester, NY 14623<br/>
-				<i className="fa fa-envelope-o"></i> xueling.zhang /at/ rit.edu
+				<i className="fa fa-map-marker"></i> Office Location: GOL 1527<br/>
+				<i className="fa fa-envelope-o"></i> xueling.zhang@rit.edu
 			</p>
 		</div>
         

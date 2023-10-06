@@ -49,8 +49,8 @@
 .profile-image{
   float: left;
   padding: 10px;
-  width: 17%;
-  min-width: 225px;
+  width: 20%;
+  
   height: 231px;
 }
 
@@ -67,7 +67,8 @@
 }
 
 .profile{
-  height: 250px;
+  height: 235px;
+  margin: 0px 20px;
 }
 
 .topnav{
