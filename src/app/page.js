@@ -14,7 +14,6 @@ export default function Page() {
   const [location, setLocation] = useState("Home");
 
   useEffect(() => {
-    console.log("entered");
   },[location])
 
   const renderSwitch = (param) => {

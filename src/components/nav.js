@@ -3,9 +3,9 @@
 export default function Nav(props) {
 
    let location = props.location;
-   console.log(props)
+   
    const setLocationFunc = (data) =>{
-    console.log(data);
+  
     props.setLocation(data);
    }
     return (
