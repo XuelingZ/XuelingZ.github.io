@@ -54,6 +54,12 @@
   height: 231px;
 }
 
+.profile-icon{
+  width: 15px;
+  height: 15px;
+  margin-bottom: 2px;
+}
+
 .profile-image-border{
   border-radius: 10px;
   background-color: white;

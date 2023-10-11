@@ -5,7 +5,7 @@ export default function Students() {
     <h2>Students</h2>
 	
 
-<h3>Current Students</h3>
+<h3>Current Graduate Students</h3>
 <div class="stdcontainer">
 	
   <div class="stdtext">
@@ -32,6 +32,22 @@ export default function Students() {
   </div>
 </div>
 
+<h3>Current Undergraduate Students</h3>
+<div class="stdcontainer">
+	
+  <div class="stdtext">
+	  <ul> 
+		
+		{/* <li>
+			<p class="stdp"><strong></strong></p>
+		</li>
+		<li>
+			<p class="stdp"><strong></strong></p>
+		</li> */}
+		
+	  </ul>
+  </div>
+</div>
 
 	  
 {/* <h3>Current undergraduate students</h3>

@@ -1,4 +1,6 @@
 import Image from "next/image";
+import locationDot from './../../public/location-dot-solid.svg';
+import envelope from './../../public/envelope-solid.svg';
 
 
 export default function Profile() {
@@ -22,8 +24,8 @@ export default function Profile() {
 				</p><hr style={{"borderTop":"1px dashed #8c8b8b","borderBottom":"1px dashed #fff"}} />
 			<p></p>
 			<p>
-				<i className="fa fa-map-marker"></i> Office Location: GOL 1527<br/>
-				<i className="fa fa-envelope-o"></i> xueling.zhang@rit.edu
+				<Image className={'profile-icon'} src={locationDot}/> Office Location: GOL 1527<br/>
+				<Image className={'profile-icon'} src={envelope}/>  xueling.zhang@rit.edu
 			</p>
 		</div>
         
