@@ -21,17 +21,9 @@ export default function Landing() {
   <h2>Updates</h2>
   <div className="notetext">
     <p className="homelist">
-      05/2023: One paper accepted to FSE 2023.
+      09/2022: One paper accepted to TOSEM.
       <br />
-      01/2023: One paper accepted to WWW 2023.
-      <br />
-      12/2022: Two papers accepted to ICSE 2023.
-      <br />
-      08/2022: <i className="fa fa-trophy" /> I am honored to have received a UB
-      Exceptional Scholar - Young Investigator Award.
-      <br />
-      07/2022: One paper accepted to ASE 2022.
-      <br />
+      08/2022: Two papers accepted to ASE 2022.
       {/*12/2021: <i class="fa fa-trophy"></i> My PhD student Alan Romano has won a UB CSE Best Graduate Research Award. Congratulations to Alan!<br/>
 			12/2021: One paper accepted to S&P 2022.<br/>
 			08/2021: One paper accepted to IMC 2021.<br/>

@@ -25,6 +25,10 @@ export default function Students() {
 		<li>
 			<p class="stdp"><strong>Vigneshwaran Ravichandran</strong></p>
 		</li>
+		<li>
+			<p class="stdp"><strong>Parinay Karande</strong></p>
+		</li>
+		
 		{/* <li>
 			<p class="stdp"><strong>Xiao Wu</strong></p>
 		</li> */}
@@ -32,22 +36,22 @@ export default function Students() {
   </div>
 </div>
 
-<h3>Current Undergraduate Students</h3>
+{/* <h3>Current Undergraduate Students</h3>
 <div class="stdcontainer">
 	
   <div class="stdtext">
 	  <ul> 
 		
-		{/* <li>
+		<li>
 			<p class="stdp"><strong></strong></p>
 		</li>
 		<li>
 			<p class="stdp"><strong></strong></p>
-		</li> */}
+		</li>
 		
 	  </ul>
   </div>
-</div>
+</div> */}
 
 	  
 {/* <h3>Current undergraduate students</h3>
