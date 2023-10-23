@@ -211,6 +211,25 @@ display: none;
 }
 
 @media screen and (max-width: 600px) {
+  body{
+  .wrapper{
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 20px;
+  }
+  .profile{
+    margin: 0px;
+    height: 450px;
+  }
+  .profile-image{
+    height: unset;
+    width: 50%;
+
+  }
+}
+}
+
+@media screen and (max-width: 600px) {
 .topnav.responsive {position: relative;}
 .topnav.responsive .icon {
   position: absolute;
