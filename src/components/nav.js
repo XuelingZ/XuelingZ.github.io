@@ -18,7 +18,7 @@ export default function Nav(props) {
     props.setLocation(data);
    }
     return (
-        <div className="wrapper">
+        <div className="wrapper navWrapper">
             <div className={`topnav ${menuclick ? "responsive":""}`} id="myTopnav">
                 <a href="#" className={`tablinks ${location=="Home" ? "active":""}`} onClick={(e)=>{setLocationFunc('Home'),handleMenuClick(e)}}>Home</a>
                 <a href="#" className={`tablinks ${location=="Publications" ? "active":""}`} onClick={(e)=>{setLocationFunc('Publications'),handleMenuClick(e)}}>Publications</a>
