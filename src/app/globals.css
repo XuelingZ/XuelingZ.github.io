@@ -210,13 +210,37 @@ display: none;
 }
 
 @media screen and (max-width: 600px) {
-.topnav a {display: none;}
+
 .topnav a.icon {
   float: right;
   display: block;
 }
 
 .topnav a.active {display:block;}
+
+/* Style for the navigation menu */
+.wrapper.navWrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap; /* Allows it to wrap into multiple rows */
+}
+
+.topnav {
+  display: flex;
+  flex-wrap: wrap; /* Allow the links to wrap into multiple rows */
+  width: 100%;
+}
+
+.tablinks {
+  flex: 1; /* Equal-width columns */
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+}
+
+
+
 }
 
 @media screen and (max-width: 600px) {
