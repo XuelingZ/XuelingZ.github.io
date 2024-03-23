@@ -21,7 +21,6 @@ export default function Publications() {
     ] */}
   </p>
 
-
   <p className="divcontainer">
     <span className="w3-tag w3-blue w3-round">ASE 2022</span> {" "}
     PredART: Towards Automatic Oracle Prediction of Object Placements in Augmented Reality Testing <br />
