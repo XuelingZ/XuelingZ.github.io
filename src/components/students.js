@@ -14,18 +14,21 @@ export default function Students() {
 			<p className="stdp"><strong>Alan Romano</strong></p>
 			<p className="stdp"><strong>First-Author Publications:</strong> FSE&apos;23, WWW&apos;23, S&amp;P&apos;22, ASE&apos;21, ICSE&apos;21, ASE&apos;20, ASE&apos;20 Demo, ICSE&apos;20 Demo</p>
 			<p className="stdp"><strong>Awards:</strong> UB CSE Best Graduate Research Award (2021), Arthur A. Schomburg Fellowship (2018~2022)</p>
-		</li>
+		</li> */}
+  
   
 		<li>
 			<p className="stdp"><strong>Haotian Zhang</strong></p>
-		</li>}
+		</li>
   
 		<li>
 			<p className="stdp"><strong>Tiash Roy</strong></p>
-		</li>}
+		</li>
+	    
 		<li>
 			<p className="stdp"><strong>Xiaoyi Yang</strong></p>
 		</li>
+	    
 		<li>
 			<p className="stdp"><strong>Vigneshwaran Ravichandran</strong></p>
 		</li>
@@ -34,9 +37,10 @@ export default function Students() {
 			<p className="stdp"><strong>Parinay Karande</strong></p>
 		</li>
 		
-		{/* <li>
+		{/* <l
 			<p className="stdp"><strong></strong></p>
 		</li> */}
+	
 	  </ul>
   </div>
 </div>
