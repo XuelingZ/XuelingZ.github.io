@@ -22,6 +22,8 @@ export default function Landing() {
   <h2>Updates</h2>
   <div className="notetext">
     <p className="homelist">
+      06/2024: One paper accepted to ISSTA.
+
       09/2022: One paper accepted to TOSEM.
       <br />
       08/2022: Two papers accepted to ASE 2022.
