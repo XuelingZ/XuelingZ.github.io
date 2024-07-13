@@ -22,10 +22,9 @@ export default function Landing() {
   <h2>Updates</h2>
   <div className="notetext">
     <p className="homelist">
-      06/2024: One paper accepted to ISSTA.
-
-      09/2022: One paper accepted to TOSEM.
-      <br />
+      06/2024: One paper accepted to ISSTA. <br />
+      04/2024: <i class="fa fa-trophy"></i> I am honored to have received an NSF CRII Award.<br/>
+      09/2022: One paper accepted to TOSEM.<br />
       08/2022: Two papers accepted to ASE 2022.
       {/*12/2021: <i class="fa fa-trophy"></i> My PhD student Alan Romano has won a UB CSE Best Graduate Research Award. Congratulations to Alan!<br/>
 			12/2021: One paper accepted to S&P 2022.<br/>
