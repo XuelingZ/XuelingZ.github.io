@@ -17,8 +17,8 @@ export default function Profile() {
 			<p></p>
 			<p>
             Assistant Professor<br/>
-            Department of Software Engineering<br/>
-            Golisano College of Computing and Information Sciences
+            Department of Software Engineering <br/>
+            Golisano College of Computing and Information Sciences <br/>
 	    Rochester Institute of Technology
 			</p>
 			<p>
