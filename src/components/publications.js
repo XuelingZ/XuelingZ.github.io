@@ -4,6 +4,19 @@ export default function Publications() {
        <div className="wrapper">
   <h2>Publications</h2>
   <p></p>
+
+
+    <p className="divcontainer">
+    <span className="w3-tag w3-blue w3-round">ISSTA 2024</span> {" "}
+    Towards Automatic Oracle Prediction for AR testing: Assessing  Virtual Object Placement Quality under Real-world Scenes <br />
+    Xiaoyi Yang, Yuxing Wang, Tahmid Rafi, Dongfang Liu, Xiaoyin Wang, 
+    <b>
+      <u>
+        <font color="#283747">Xueling Zhang</font>
+      </u>
+    </b>
+    {" "}.<br />
+  </p>
     
     <p className="divcontainer">
     <span className="w3-tag w3-blue w3-round">TOSEM 2023</span> {" "}
@@ -24,7 +37,7 @@ export default function Publications() {
   <p className="divcontainer">
     <span className="w3-tag w3-blue w3-round">ASE 2022</span> {" "}
     PredART: Towards Automatic Oracle Prediction of Object Placements in Augmented Reality Testing <br />
-    Tahmid Rafi and{" "}
+    Tahmid Rafi, {" "}
     <b>
       <u>
         <font color="#283747">Xueling Zhang</font>
