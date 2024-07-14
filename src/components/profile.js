@@ -19,6 +19,7 @@ export default function Profile() {
             Assistant Professor<br/>
             Department of Software Engineering<br/>
             Golisano College of Computing and Information Sciences
+	    Rochester Institute of Technology
 			</p>
 			<p>
 				</p><hr style={{"borderTop":"1px dashed #8c8b8b","borderBottom":"1px dashed #fff"}} />
