@@ -9,13 +9,13 @@ export default function Publications() {
     <p className="divcontainer">
     <span className="w3-tag w3-blue w3-round">ISSTA 2024</span> {" "}
     Towards Automatic Oracle Prediction for AR testing: Assessing  Virtual Object Placement Quality under Real-world Scenes <br />
-    Xiaoyi Yang, Yuxing Wang, Tahmid Rafi, Dongfang Liu, Xiaoyin Wang, and {" "}.<br />
+    Xiaoyi Yang, Yuxing Wang, Tahmid Rafi, Dongfang Liu, Xiaoyin Wang, and {" "}
     <b>
       <u>
         <font color="#283747">Xueling Zhang</font>
       </u>
     </b>
-
+    .<br />
   </p>
     
     <p className="divcontainer">
