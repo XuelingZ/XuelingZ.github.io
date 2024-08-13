@@ -60,6 +60,19 @@ export default function Publications() {
     </a>{" "}
     ] */}
   </p>
+
+
+  
+  <p className="divcontainer">
+    <span className="w3-tag w3-blue w3-round">ASE 2022</span> {" "}
+    A Study of User Privacy in Android Mobile AR Apps <br />
+    Yang, Xiaoyi, and
+    <b>
+      <u>
+        <font color="#283747">Xueling Zhang</font>
+      </u>
+    </b>
+  </p>      
         
   <p className="divcontainer">
     <span className="w3-tag w3-blue w3-round">S&P 2021</span> {" "}
@@ -116,7 +129,7 @@ export default function Publications() {
     Privacy assurance for android augmented reality apps <br />
     <b>
       <u>
-        <font color="#283747">Weihang Wang</font>
+        <font color="#283747">Xueling Zhang</font>
       </u>
     </b>, Rocky Slavin, Xiaoyin Wang, and Jianwei Niu.<br />
     {/* In Proceedings of the 38th Annual Computer Security Applications Conference,
