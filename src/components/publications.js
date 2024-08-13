@@ -17,6 +17,19 @@ export default function Publications() {
     </b>
     .<br />
   </p>
+
+    <p className="divcontainer">
+    <span className="w3-tag w3-blue w3-round">CVPR 2024</span> {" "}
+    ProMotion: Prototypes As Motion Learners <br />
+    Yawen Lu, Dongfang Liu, Qifan Wang, Cheng Han, Yiming Cui, Zhiwen Cao, {" "}, Yingjie Victor Chen, and Heng Fan. <br /> 
+    <b>
+      <u>
+        <font color="#283747">Xueling Zhang</font>
+      </u>
+    </b>
+    .<br />
+  </p>
+        
     
     <p className="divcontainer">
     <span className="w3-tag w3-blue w3-round">TOSEM 2023</span> {" "}
@@ -27,11 +40,6 @@ export default function Publications() {
       </u>
     </b>
     {" "} , John Heaps, Rocky Slavin, Jianwei Niu, Travis Breaux and Xiaoyin Wang.<br />
-    {/* In Proceedings of the 32nd International World Wide Web Conference. <br />[{" "}
-    <a href="papers/WWW2023.pdf" target="_blank">
-      <i className="fa fa-file-pdf-o" /> Paper
-    </a>{" "}
-    ] */}
   </p>
 
   <p className="divcontainer">
