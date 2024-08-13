@@ -22,12 +22,14 @@ export default function Publications() {
     <p className="divcontainer">
     <span className="w3-tag w3-blue w3-round">CVPR 2024</span> {" "}
     ProMotion: Prototypes As Motion Learners <br />
-    Yawen Lu, Dongfang Liu, Qifan Wang, Cheng Han, Yiming Cui, Zhiwen Cao, {" "}, Yingjie Victor Chen, and Heng Fan. <br /> 
+    Yawen Lu, Dongfang Liu, Qifan Wang, Cheng Han, Yiming Cui, Zhiwen Cao
     <b>
       <u>
         <font color="#283747">Xueling Zhang</font>
       </u>
     </b>
+    , Yingjie Victor Chen, and Heng Fan. <br /> 
+        
     .<br />
   </p>
         
