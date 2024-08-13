@@ -66,13 +66,14 @@ export default function Publications() {
   <p className="divcontainer">
     <span className="w3-tag w3-blue w3-round">ASE 2022</span> {" "}
     A Study of User Privacy in Android Mobile AR Apps <br />
-    Yang, Xiaoyi, and
+    Yang, Xiaoyi, and 
     <b>
       <u>
         <font color="#283747">Xueling Zhang</font>
       </u>
     </b>
   </p>      
+  .<br />
         
   <p className="divcontainer">
     <span className="w3-tag w3-blue w3-round">S&P 2021</span> {" "}
