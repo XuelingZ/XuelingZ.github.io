@@ -22,7 +22,7 @@ export default function Landing() {
   <h2>Updates</h2>
   <div className="notetext">
     <p className="homelist">
-      01/2025: Many thanks to NSF for supporting our research on Automated Testing of Augmented Reality Apps!
+      01/2025: Many thanks to NSF for supporting our research on Automated Testing of Augmented Reality Apps!!
       06/2024: One paper accepted to ISSTA. <br />
       04/2024: <i class="fa fa-trophy"></i> I am honored to have received an NSF CRII Award.<br/>
       09/2022: One paper accepted to TOSEM.<br />
