@@ -5,6 +5,18 @@ export default function Publications() {
   <h2>Publications</h2>
   <p></p>
 
+ <p className="divcontainer">
+    <span className="w3-tag w3-blue w3-round">EMNLP 2025</span> {" "}
+    MEPT: Mixture of Expert Prompt Tuning as a Manifold Mapper <br />
+    Runjia Zeng, Guangyan Sun, Qifan Wang, Tong Geng, Sohail Dianat, Xiaotian Han, Raghuveer Rao,
+    <b>
+      <u>
+        <font color="#283747">Xueling Zhang</font>
+      </u>
+    </b>
+    , Cheng Han, Lifu Huang, and Dongfang Liu. <br /> 
+  </p>
+
 
     <p className="divcontainer">
     <span className="w3-tag w3-blue w3-round">ISSTA 2024</span> {" "}
