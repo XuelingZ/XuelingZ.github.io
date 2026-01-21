@@ -16,13 +16,7 @@ export default function Publications() {
     <p className="divcontainer">
     <span className="w3-tag w3-blue w3-round">FSE 2026</span> {" "}
     Behind Defective Mobile AR Apps: Studying Reviews and Bugs of Android AR Software with Comparison to Prior Bug Studies <br />
-    Tahmid Rafi,
-    <b>
-      <u>
-        <font color="#283747">Xueling Zhang</font>
-      </u>
-    </b>
-    ,Jianwei Niu and Xiaoyin Wang. <br /> 
+    Tahmid Rafi, <b><u><font color="#283747">Xueling Zhang</font></u></b>, Jianwei Niu and Xiaoyin Wang. <br /> 
   </p>
 
         
@@ -30,13 +24,7 @@ export default function Publications() {
  <p className="divcontainer">
     <span className="w3-tag w3-blue w3-round">EMNLP 2025</span> {" "}
     MEPT: Mixture of Expert Prompt Tuning as a Manifold Mapper <br />
-    Runjia Zeng, Guangyan Sun, Qifan Wang, Tong Geng, Sohail Dianat, Xiaotian Han, Raghuveer Rao,
-    <b>
-      <u>
-        <font color="#283747">Xueling Zhang</font>
-      </u>
-    </b>
-    , Cheng Han, Lifu Huang, and Dongfang Liu. <br /> 
+    Runjia Zeng, Guangyan Sun, Qifan Wang, Tong Geng, Sohail Dianat, Xiaotian Han, Raghuveer Rao, <b><u><font color="#283747">Xueling Zhang</font></u></b>, Cheng Han, Lifu Huang, and Dongfang Liu. <br /> 
   </p>
 
 
