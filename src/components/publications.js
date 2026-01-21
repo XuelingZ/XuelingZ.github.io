@@ -5,6 +5,33 @@ export default function Publications() {
   <h2>Publications</h2>
   <p></p>
 
+
+
+ <p className="divcontainer">
+    <span className="w3-tag w3-blue w3-round">WiSec 2026</span> {" "}
+    Are Android Developers Following Privacy Guidelines? A Study on Logging Practices of Personal Data <br />
+    Jin Ouyang,  Tiash Roy, Daqing Hou, Yuzhe Tang and
+    <b>
+      <u>
+        <font color="#283747">Xueling Zhang</font>
+      </u>
+    </b>
+  </p>.
+
+    <p className="divcontainer">
+    <span className="w3-tag w3-blue w3-round">FSE 2026</span> {" "}
+    Behind Defective Mobile AR Apps: Studying Reviews and Bugs of Android AR Software with Comparison to Prior Bug Studies <br />
+    Tahmid Rafi,
+    <b>
+      <u>
+        <font color="#283747">Xueling Zhang</font>
+      </u>
+    </b>
+    ,Jianwei Niu and Xiaoyin Wang. <br /> 
+  </p>
+
+        
+
  <p className="divcontainer">
     <span className="w3-tag w3-blue w3-round">EMNLP 2025</span> {" "}
     MEPT: Mixture of Expert Prompt Tuning as a Manifold Mapper <br />
