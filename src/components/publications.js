@@ -10,12 +10,7 @@ export default function Publications() {
  <p className="divcontainer">
     <span className="w3-tag w3-blue w3-round">WiSec 2026</span> {" "}
     Are Android Developers Following Privacy Guidelines? A Study on Logging Practices of Personal Data <br />
-    Jin Ouyang,  Tiash Roy, Daqing Hou, Yuzhe Tang and
-    <b>
-      <u>
-        <font color="#283747">Xueling Zhang.</font>
-      </u>
-    </b>
+    Jin Ouyang,  Tiash Roy, Daqing Hou, Yuzhe Tang and <b><u><font color="#283747"> Xueling Zhang</font></u></b>.
   </p>
 
     <p className="divcontainer">
