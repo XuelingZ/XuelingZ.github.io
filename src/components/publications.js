@@ -13,10 +13,10 @@ export default function Publications() {
     Jin Ouyang,  Tiash Roy, Daqing Hou, Yuzhe Tang and
     <b>
       <u>
-        <font color="#283747">Xueling Zhang</font>
+        <font color="#283747">Xueling Zhang.</font>
       </u>
     </b>
-  </p>.
+  </p>
 
     <p className="divcontainer">
     <span className="w3-tag w3-blue w3-round">FSE 2026</span> {" "}
