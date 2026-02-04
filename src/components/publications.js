@@ -6,7 +6,7 @@ export default function Publications() {
   <p></p>
 
  <p className="divcontainer">
-    <span className="w3-tag w3-blue w3-round">WiSec 2026</span> {" "}
+    <span className="w3-tag w3-blue w3-round">ICLR 2026</span> {" "}
     TokenSeek: Memory Efficient Fine Tuning via Instance-Aware Token Ditching <br />
     Runjia Zeng, Qifan Wang, Qiang Guan, Ruixiang Tang, Lifu Huang, Zhenting Wang, <b><u><font color="#283747"> Xueling Zhang</font></u></b>, Cheng Han, and Dongfang Liu  <br/> 
   </p>
@@ -26,7 +26,7 @@ export default function Publications() {
         
 
  <p className="divcontainer">
-    <span className="w3-tag w3-blue w3-round">EMNLP 2025</span> {" "}
+    <span className="w3-tag w3-blue w3-round">IEEE Software 2025</span> {" "}
     MExploring LLMs’ Potential for Privacy Leakage Detection in Android App Logs: An Empirical Study <br />
     Zhiyuan Chen, Vanessa Nava-Camal, Tiash Roy, Zhe Li, Yiming Tang, <b><u><font color="#283747">Xueling Zhang</font></u></b>  and Haibo Yang.<br/> 
   </p>
@@ -79,13 +79,7 @@ export default function Publications() {
   <p className="divcontainer">
     <span className="w3-tag w3-blue w3-round">ASE 2022</span> {" "}
     PredART: Towards Automatic Oracle Prediction of Object Placements in Augmented Reality Testing <br />
-    Tahmid Rafi, {" "}
-    <b>
-      <u>
-        <font color="#283747">Xueling Zhang</font>
-      </u>
-    </b>
-    {" "} and Xiaoyin Wang.<br />
+    Tahmid Rafi, {" "} <b><u><font color="#283747">Xueling Zhang</font></u></b> and Xiaoyin Wang.<br />
     {/* In Proceedings of the 31st ACM SIGSOFT International Symposium on the
     Foundations of Software Engineering. <br />[{" "}
     <a href="papers/FSE2023.pdf" target="_blank">
