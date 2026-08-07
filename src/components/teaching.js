@@ -3,7 +3,7 @@ export default function Teaching() {
         <div>
             <div className="wrapper">
   <h2>Teaching</h2>
-  <h3>Rochester Institute of Technology (Assistant Professor)</h3>
+  <h3>Rochester Institute of Technology</h3>
   <div className="notetext">
     <p className="homelist">
       SWEN-789: Engineering Privacy in Software <br />
