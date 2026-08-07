@@ -13,7 +13,7 @@ export default function Landing() {
         "OTransition":"all 150ms ease-in-out",
         "transition":"all 150ms ease-in-out",
         "textDecoration":"none !important"}}>
-      xueling.zhang@rit.edu
+      xueling.zhang@purdue.edu
       </a>
       </p>
 
