@@ -24,8 +24,8 @@ export default function Profile() {
 				</p><hr style={{"borderTop":"1px dashed #8c8b8b","borderBottom":"1px dashed #fff"}} />
 			<p></p>
 			<p>
-				<Image className={'profile-icon'} src={locationDot}/> Office Location: GOL 1527<br/>
-				<Image className={'profile-icon'} src={envelope}/>  xueling.zhang@rit.edu
+				// <Image className={'profile-icon'} src={locationDot}/> Office Location: GOL 1527<br/>
+				<Image className={'profile-icon'} src={envelope}/>  xueling.zhang@purdue.edu
 			</p>
 		</div>
         
