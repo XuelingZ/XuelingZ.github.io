@@ -17,9 +17,8 @@ export default function Profile() {
 			<p></p>
 			<p>
             Assistant Professor<br/>
-            Department of Software Engineering <br/>
-            Golisano College of Computing and Information Sciences <br/>
-	    Rochester Institute of Technology
+            Applied and Creative Computing <br/>
+	        Purdue University
 			</p>
 			<p>
 				</p><hr style={{"borderTop":"1px dashed #8c8b8b","borderBottom":"1px dashed #fff"}} />
